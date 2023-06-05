@@ -1,5 +1,5 @@
-﻿# expense-tracker
-### `React + Vite`
+﻿# Chat-App
+ ### `React + Vite`
 https://siracalakus-chat-app.netlify.app/
 # Packages that need to be installed
 ### `npm install firebase`
